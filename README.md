@@ -1,1 +1,1 @@
-# friendly-potato
+# friendly-potato.github.io
